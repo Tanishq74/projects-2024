@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif](https://my.spline.design/visualicons-74ab90b2a857fbce588b6d3c6fa24f85/"  />
+  <img height="300" src="https://my.spline.design/visualicons-74ab90b2a857fbce588b6d3c6fa24f85/"  />
 </div>
 
 ###
